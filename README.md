@@ -1,95 +1,71 @@
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3gaY9iEyv_QijICsFTBHezhMK71dc8v-p9J_u3WQ5S9yzlduHjgqNVOY&s=10" width="100%">
+</p>
+
+<br>
+
 <div align="center">
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+# João Vitor
+### Computer Science Student
 
-# [YOUR NAME]
-
-### *「時は、止まらない。」*
-**"Time never stops."**
-
-<sub>Computer Science Student · Early Chapters</sub>
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+Just starting out • learning how to build things, one line of code at a time.
 
 </div>
 
 <br>
 
-## ── 001 · ABOUT
+## 01. About
 
-I'm a Computer Science student at the very beginning of my journey. I'm learning
-how to build software from the ground up — one loop, one function, one small
-project at a time. This page is where I keep track of that progress.
+I'm a Computer Science student in the early stage of my degree. This profile
+is where I keep track of what I'm studying, the exercises I write, and the
+small projects I build along the way.
 
 <br>
 
-## ── 002 · CURRENTLY LEARNING
+## 02. Currently Learning
 
 <div align="center">
 
-| Focus | Topic |
-|:--|:--|
-| Language | C++ |
-| Core | Algorithm Fundamentals |
-| Structures | Loops · Arrays · Functions / Subroutines |
+![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Algorithm%20Fundamentals-000000?style=flat-square)
+![Loops](https://img.shields.io/badge/-Loops-000000?style=flat-square)
+![Arrays](https://img.shields.io/badge/-Arrays-000000?style=flat-square)
+![Functions](https://img.shields.io/badge/-Functions-000000?style=flat-square)
+![Subroutines](https://img.shields.io/badge/-Subroutines-000000?style=flat-square)
 
 </div>
 
 <br>
 
-## ── 003 · TOOLS
+## 03. Projects
 
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+A collection of coursework, programming exercises and personal projects.
+More will be added here as they're finished.
 
 <br>
 
-## ── 004 · PROJECTS
+## 04. Computer Science
 
-```
-[ PANEL EMPTY ]
-```
-
-No projects published yet — this section will grow as coursework and
-personal exercises are completed and pushed here.
-
-<br>
-
-## ── 005 · CS STUDIES
-
-A running log of what's being studied as part of the degree:
+Topics covered so far in my studies:
 
 - Algorithm fundamentals and logical structuring
 - Control flow — loops and conditionals
 - Data structures — arrays
 - Functions and subroutines
-- (More chapters to be added as the semester progresses)
 
 <br>
 
-## ── 006 · CONTACT
+## 05. Contact
 
 <div align="center">
 
-[GitHub](https://github.com/[YOUR_USERNAME]) · [[YOUR EMAIL]](mailto:[YOUR_EMAIL]) · [[YOUR LINK]]([YOUR_LINK])
+[GitHub](https://github.com/[YOUR_USERNAME])
 
 </div>
 
 <br>
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
 <div align="center">
-<sub><i>every panel is just a frame — the story is still being drawn.</i></sub>
+<sub><i>still an early chapter — more will be written soon.</i></sub>
 </div>
