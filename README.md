@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# João Vitor
+# Nitsu
 ### Computer Science Student
 
 Just starting out • learning how to build things, one line of code at a time.
@@ -28,11 +28,9 @@ small projects I build along the way.
 <div align="center">
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![Algorithms](https://img.shields.io/badge/-Algorithm%20Fundamentals-000000?style=flat-square)
-![Loops](https://img.shields.io/badge/-Loops-000000?style=flat-square)
-![Arrays](https://img.shields.io/badge/-Arrays-000000?style=flat-square)
-![Functions](https://img.shields.io/badge/-Functions-000000?style=flat-square)
-![Subroutines](https://img.shields.io/badge/-Subroutines-000000?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-Algorithm%20Fundamentals-000000?style=flat-square)
+![CSS](https://img.shields.io/badge/-Loops-000000?style=flat-square)
+![HTML](https://img.shields.io/badge/-Arrays-000000?style=flat-square)
 
 </div>
 
@@ -60,7 +58,7 @@ Topics covered so far in my studies:
 
 <div align="center">
 
-[GitHub](https://github.com/[YOUR_USERNAME])
+[GitHub](https://github.com/niitsuu)
 
 </div>
 
